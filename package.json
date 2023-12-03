@@ -1,0 +1,21 @@
+{
+  "name": "rubbietheone-blender-theme",
+  "displayName": "Rubbie's blender",
+  "description": "Somewhat look a like of the blender",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rubbie's Blender",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rubbie-blender-theme.json"
+      }
+    ]
+  }
+}

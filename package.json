@@ -1,7 +1,8 @@
 {
-  "name": "rubbietheone-blender-theme",
-  "displayName": "Rubbie's blender",
-  "description": "Somewhat look a like of the blender",
+  "name": "blender-mojo-theme",
+  "displayName": "Blender mojo theme",
+  "publisher": "rubbie-kelvin",
+  "description": "Somewhat look a like of the blender's mojo theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"

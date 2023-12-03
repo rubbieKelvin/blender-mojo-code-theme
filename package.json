@@ -4,6 +4,9 @@
   "publisher": "rubbie-kelvin",
   "description": "Somewhat look a like of the blender's mojo theme",
   "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/rubbieKelvin/blender-mojo-code-theme"
+  },
   "engines": {
     "vscode": "^1.84.0"
   },
